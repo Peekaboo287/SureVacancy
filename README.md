@@ -1,2 +1,2 @@
-# SureVacancy
+# Sure Jobs
 recruitment website
